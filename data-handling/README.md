@@ -1,12 +1,11 @@
 # ml-2020-1-datahandling
-Vamos utilizar uma conhecida base pública para praticar os conceitos de Tratamento de dados vistos em sala de aula.
+Let's utilize a public dataset to practice the concepts of data handling.
 
-Instruções gerais:
-1. Carregue a base de dados Titanic do Kaggle (train) no Jupyter em um DataFrame
-2. Carregue, explore e visualize os dados através de gráficos
-3. Remova as colunas que não agregam valor e justifique
-4. Trate valores nulos por coluna ou remova as linhas com dados nulos
-Ex.: Valores nulos da coluna 'Age', baseado em 'Pclass' e 'Sex'
-5. Substitua colunas literais por valores numéricos
-6. Normalize os valores numéricos que não são binários
-7. Remova as colunas literais restantes
+General instructions:
+1. Load the dataset "Titanic" from Kaggle on Jupyter inside a DataFrame
+2. Load, explore and visualize the data from the graphs
+3. Remove the columns that does not add value and justify
+4. Process the null values per columns or remove the lines with the null data
+5. Replace the literal columns for numerical values
+6. Normalize the numerical values that are not binary
+7. Remove the literal columns that are left
