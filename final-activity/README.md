@@ -1,33 +1,27 @@
-# Redes Neurais Artificiais
+# Artifical Neural Networks
 
-**Atividade Final**: Nesta atividade em grupo, vocês devem determinar o problema e a abordagem.
+**Final Activity**: On this group activity, you should determine the problem and approach.
 
-É esperada a comparação de, ao menos, **dois** modelos de machine learning, sendo um deles `Redes Neurais Artificiais` (`MLP` ou qualquer modelo de `Deep Learning`) e, o outro, algum modelo **não visto** em sala de aula: `Algoritmos de otimização` em geral (`Genéticos`, baseados em enxames ou colônia de formigas), `GANs`, técnicas de `Aprendizado por Reforço`, etc.
+It is expected the comparison of, at least, **two** models of machine learning, being one of them `Artifical Neural Networks` (`MLP` or any other `Deep Learning` model) and another, **unseen** model: `Optimization Algorithms` in general (`Genetics`, based on swarms of bees or ant colonies), `GANs`, `Reinforcement Learning` techniques, etc.
 
-Espera-se que o problema escolhido tenha dificuldade/complexidade de acordo com o nível final da disciplina e com o tamanho dos grupos. Problemas atuais, desafiadores e públicos serão bonificados na avaliação. Desafios competitivos e com recompensa do kaggle são recomendados!
+It is expected that the problem choosen has a difficulty accordingly to the final activity of the course. Actual problems, challenging and public will have a bonus. Competitive challenges and challenges with a reward from Kaggle are recommended!
 
-Como resultado, além de todo o código, o grupo deve apresentar o trabalho feito utilizando os recursos que julgar necessários (apresentação, notebook, código, gráficos, etc). A técnica não vista em sala (modelo de Deep Learning ou outro escolhido)  deve ter seus conceitos e implementação apresentados para que todos a aprendam - conversem entre si para que uma mesma técnica não seja apresentada duas vezes.
+As a result, besides all the coding, the group should present the work that was done using all the resources that they feel that are necessary (presentation, notebook, coding, graphs, etc). The technique unseen on class should have the concepts and implementation presented, so everyone can learn from it.
 
-## Instruções Gerais
+## General instructions
 
-**Apresentação**: segunda, dia 06/07/2020, 8:45 - 20min por equipe, tolerância de 2 minutos.
+**Presentation**: Monday, 06/07/2020, 8:45AM - 20min per team
 
-**Premissas**:
+**Criteria**
 
-- Os grupos podem ter até 4 integrantes, podendo ser os mesmos grupos da disciplina de projeto
-- Os resultados devem ser proporcionais a quantidade de integrantes
-- Não é permito mais de um grupo com o mesmo problema (dados)
-- É incentivada a utilização de técnicas diferentes e mais diversas possíveis
+- Problem definition (complexity / challenge / if the problem is up-to-date / etc)
+- Understanding, data processing and visualization
+- Choice, modeling and application of the techniques
+- Code
+- Results and Evaluation
+- General presentation
+- Presentation of the technique that was used
 
-**Critérios**:
-
-- Definição do problema (complexidade / desafio / atualidade / etc)
-- Entendimento, tratamento e visualização dos dados
-- Escolha, modelagem e aplicação das técnicas
-- Código
-- Resultados e Avaliação
-- Apresentação geral
-- Apresentação da técnica utilizada
 
 ## 🐳 Docker installation and usage
 
